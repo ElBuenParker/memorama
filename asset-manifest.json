@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/memorama/static/css/main.744c0b08.css",
+    "main.js": "/memorama/static/js/main.400b36a2.js",
+    "static/js/453.41e3ad15.chunk.js": "/memorama/static/js/453.41e3ad15.chunk.js",
+    "index.html": "/memorama/index.html",
+    "main.744c0b08.css.map": "/memorama/static/css/main.744c0b08.css.map",
+    "main.400b36a2.js.map": "/memorama/static/js/main.400b36a2.js.map",
+    "453.41e3ad15.chunk.js.map": "/memorama/static/js/453.41e3ad15.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.744c0b08.css",
+    "static/js/main.400b36a2.js"
+  ]
+}
