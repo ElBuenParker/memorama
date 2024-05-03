@@ -6,7 +6,7 @@ const Board = ({animating, handleMemoClick, memoBlocks}) => {
     return (
         <div className="mainScreen">
             <div className="header">Memorama
-            <button>
+            <button onClick={() => window.location.reload()}>
                 <span class="box">
                     Reiniciar
                 </span>
