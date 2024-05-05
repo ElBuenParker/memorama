@@ -11,6 +11,11 @@ const Board = ({animating, handleMemoClick, memoBlocks}) => {
                     Reiniciar
                 </span>
             </button>
+            <a target="_blank" href="https://elbuenparker.github.io/parkerweb" class="loader">
+                <span>&lt;</span>
+                    <span>ElBuenParker</span>
+                <span>/&gt;</span>
+            </a>
 </div>
             <div className="board">
                 {memoBlocks.map( (memoBlock, i) => {
